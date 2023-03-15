@@ -13,3 +13,8 @@
 	url = https://github.com/hetong007/rltp
 	shallow = true
 	registered = true
+[submodule "SwarmSVM"]
+	path = SwarmSVM
+	url = https://github.com/hetong007/swarmsvm
+	shallow = true
+	registered = true

@@ -6,5 +6,9 @@
   {
     "package": "rLTP",
     "oncran": true
+  },
+  {
+    "package": "SwarmSVM",
+    "oncran": true
   }
 ]
