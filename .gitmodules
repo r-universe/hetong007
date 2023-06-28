@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pullword"]
 	path = pullword
 	url = https://github.com/hetong007/pullword
-	shallow = true
-	registered = true
 [submodule "rLTP"]
 	path = rLTP
 	url = https://github.com/hetong007/rltp
-	shallow = true
-	registered = true
 [submodule "SwarmSVM"]
 	path = SwarmSVM
 	url = https://github.com/hetong007/swarmsvm
-	shallow = true
-	registered = true
