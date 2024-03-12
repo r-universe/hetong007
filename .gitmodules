@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "SwarmSVM"]
-	path = SwarmSVM
-	url = https://github.com/hetong007/swarmsvm
 [submodule "pullword"]
 	path = pullword
 	url = https://github.com/hetong007/pullword
